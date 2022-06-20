@@ -9,5 +9,5 @@
 
 ##  Customise Pizza
 <p align="center" style='padding: 20px 50px;'>
- <img src="./assets/demo/customize_pizza.gif" alt='app demo2' height='400px'/>
+ <img src="./assets/demo/customizepizza.gif" alt='app demo2' height='400px'/>
 </p>
