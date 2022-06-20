@@ -2,7 +2,7 @@
 
 ## Build Pizza
 <p align="center" style='padding: 20px 50px;'>
- <img src="./assets/demo/build_pizza.gif" alt='app demo1' height='400px'/>
+ <img src="./assets/demo/buildpizza.gif" alt='app demo1' height='400px'/>
 </p>
 
 <br/>
