@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474802553097",
+    "firebase_url": "https://pizza-animation-default-rtdb.firebaseio.com",
+    "project_id": "pizza-animation",
+    "storage_bucket": "pizza-animation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474802553097:android:1df063cddbceab025c53d8",
+        "android_client_info": {
+          "package_name": "com.r.pizza_animation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474802553097-gr0le3osbl2tnafje5dufk694cnin34u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.r.pizza_animation",
+            "certificate_hash": "17e10c97242a62b4219b54dcdf30aaac2971c9c0"
+          }
+        },
+        {
+          "client_id": "474802553097-d0bmbjjf36ohle6ks5ume4lng0hqr1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5hBrMEbRIupa4IAfPAfAgYK1aQS4sI10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474802553097-d0bmbjjf36ohle6ks5ume4lng0hqr1tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
